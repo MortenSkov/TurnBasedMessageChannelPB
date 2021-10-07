@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnbasedRabbitGame", "TurnbasedRabbitGame\TurnbasedRabbitGame.csproj", "{65FB7037-4DD3-4092-A938-3194043A485A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{9ACF54A4-BD59-4AD5-808E-4A88C50FAF2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{913BA8B6-1448-4747-9D3B-9B4BDC51FA2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{65FB7037-4DD3-4092-A938-3194043A485A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65FB7037-4DD3-4092-A938-3194043A485A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65FB7037-4DD3-4092-A938-3194043A485A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACF54A4-BD59-4AD5-808E-4A88C50FAF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACF54A4-BD59-4AD5-808E-4A88C50FAF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACF54A4-BD59-4AD5-808E-4A88C50FAF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACF54A4-BD59-4AD5-808E-4A88C50FAF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913BA8B6-1448-4747-9D3B-9B4BDC51FA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913BA8B6-1448-4747-9D3B-9B4BDC51FA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913BA8B6-1448-4747-9D3B-9B4BDC51FA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913BA8B6-1448-4747-9D3B-9B4BDC51FA2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
